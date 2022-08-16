@@ -1,0 +1,8 @@
+## Create a user
+
+POST https://localhost:3001/api/users
+
+{
+    "username": "Hello 1",
+    "address": "123 Main Str"
+}
